@@ -1,6 +1,6 @@
 // sw.js (Service Worker)
 
-const CACHE_NAME = 'brand-pro-v1';
+const CACHE_NAME = 'brand-pro-v3';
 const ASSETS = [
     './index.html',
     './manifest.json',
